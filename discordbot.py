@@ -15,7 +15,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def hanage(ctx):
-    await ctx.send('いや無理ｗ')
+    await ctx.send('いや無理')
 
 
 bot.run(token)
